@@ -1,0 +1,12 @@
+Servlets\SvZapato.class
+Servlets\SvModelo.class
+com\mycompany\proyecto1\JakartaRestConfiguration.class
+Logica\ElementoExisteException.class
+com\mycompany\proyecto1\resources\JakartaEE10Resource.class
+Logica\PersistenciaException.class
+Logica\Modelo.class
+Logica\Venta.class
+Servlets\Ventas.class
+Logica\ArchivoVentaException.class
+Logica\TiendaZapatos.class
+Logica\Zapato.class
